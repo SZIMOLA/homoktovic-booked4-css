@@ -5,3 +5,5 @@
 body, .hero-section__description {
   font-family: 'Poppins', sans-serif !important;
 }
+
+html { outline: 6px solid red !important; }
